@@ -17,4 +17,4 @@ Once the dependencies are installed, start the server
 $ node server.js
 ```
 
-Point your browser to [a link](http://localhost:3000) and you should have the application running.
+Point your browser to [http://localhost:3000](http://localhost:3000) and you should have the application running.
